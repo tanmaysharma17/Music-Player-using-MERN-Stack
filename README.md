@@ -1,4 +1,4 @@
-# Music Player using MERN Stack
+# Music Player using MERN Stack(Spotify Clone)
 
 This music player is a single page mern stack  application inspired by the concept and style of Spotify.
 
